@@ -17,3 +17,4 @@ include(CMake/CompileOptions.cmake)
 # Project modules
 add_subdirectory(Sources)
 add_subdirectory(Libraries/imgui)
+add_subdirectory(Libraries/glad)
